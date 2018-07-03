@@ -10,7 +10,3 @@ inherit_gem:
 
 AllCops:
   TargetRubyVersion: 2.5
-
-Metrics/BlockLength:
-  Exclude:
-    - "apps/web/application.rb"
